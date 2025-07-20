@@ -25,7 +25,7 @@ Cette landing page est structurée en plusieurs sections pour guider l’utilisa
 ---
 
 ## Aperçu en image
-> 🔁 *Ces images sont hébergées dans les Issues GitHub via glisser-déposer dans le dossier 'website preview'.*
+> 🔁 *Ces images sont hébergées dans les 'Issues' GitHub via glisser-déposer dans le dossier 'website preview'.*
 
 ---
 
@@ -34,7 +34,7 @@ Cette landing page est structurée en plusieurs sections pour guider l’utilisa
 ```bash
 # Clone le dépôt
 git clone https://github.com/Nao077/real-estate-landing-test.git
-cd real-estate-landing
+cd real-estate-landing-test
 
 # Installe les dépendances
 npm install
